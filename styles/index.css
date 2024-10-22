@@ -9,6 +9,7 @@ body, html {
   width: 100%;
   margin: 0;
   font-family: "Zen Maru Gothic", Arial, Helvetica, serif;
+
   
 }
 
@@ -117,4 +118,5 @@ img {
   display: block;
   height: auto;
   max-width: 100%;
+  border-radius: 50px;
 }
