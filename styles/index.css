@@ -113,6 +113,7 @@ body, html {
   font-size: 16px;
   cursor: pointer;
   background-color: #04AA6D;
+  
 }
 
 img {
@@ -120,4 +121,11 @@ img {
   height: auto;
   max-width: 100%;
   border-radius: 50px;
+}
+
+.btxt {
+
+  color:white;
+  text-decoration: none;
+
 }
